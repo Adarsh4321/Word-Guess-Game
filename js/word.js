@@ -8,7 +8,7 @@ const wordList=[
         hint:"a musical instrument"
     },
     {
-        word:"jpeg",
+        word:"png",
         hint:"a small image file format"
     },
     {
@@ -21,11 +21,23 @@ const wordList=[
     },
     {
         word:"github",
-        hint:"hosting platform for version control"
+        hint:"code hosting platform"
     },
     {
         word:"udemy",
         hint:"online website for learning"
+    },
+    {
+        word: "mysql",
+        hint: "a relational database system"
+    },
+    {
+        word: "tesla",
+        hint: "famous electric car company"
+    },
+    {
+        word: "nile",
+        hint: "largest river in the world"
     }
 ]
 
