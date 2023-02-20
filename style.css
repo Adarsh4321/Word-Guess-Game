@@ -11,7 +11,7 @@ body{
    justify-content: center;
    min-height: 100vh;
    background: #61d0ef;
-   background-image: url(tree.png);
+   background-image: url('tree.PNG');
    background-size: cover;
 }
 .wrapper{
